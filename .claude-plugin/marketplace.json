@@ -1,0 +1,12 @@
+{
+  "name": "live-session-titles",
+  "owner": { "name": "franco-valenzuela" },
+  "plugins": [
+    {
+      "name": "live-session-titles",
+      "source": "./",
+      "description": "Live session titles, bulk retitle with preview, sidebar cleanup and undo.",
+      "version": "1.0.0"
+    }
+  ]
+}

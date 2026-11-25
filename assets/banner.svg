@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="live-session-titles">
+  <rect width="1200" height="360" fill="#0b0f14"/>
+  <g font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    <!-- sidebar mock -->
+    <rect x="80" y="70" width="380" height="220" rx="14" fill="#121821" stroke="#1f2833"/>
+    <rect x="100" y="94" width="340" height="38" rx="8" fill="#17202b"/>
+    <circle cx="120" cy="113" r="5" fill="#3ddc97"/>
+    <text x="136" y="119" font-size="17" fill="#e6edf3">Fix checkout rounding bug</text>
+    <rect x="100" y="142" width="340" height="38" rx="8" fill="none"/>
+    <circle cx="120" cy="161" r="5" fill="#5b6b7c"/>
+    <text x="136" y="167" font-size="17" fill="#9aa7b4">Migrate auth to passkeys</text>
+    <circle cx="120" cy="209" r="5" fill="#5b6b7c"/>
+    <text x="136" y="215" font-size="17" fill="#9aa7b4">Corregir login en Android</text>
+    <circle cx="120" cy="257" r="5" fill="#2a3440"/>
+    <text x="136" y="263" font-size="17" fill="#4a5664" text-decoration="line-through">New session</text>
+    <!-- title -->
+    <text x="540" y="168" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="-1">live-session-titles</text>
+    <text x="542" y="214" font-size="22" fill="#8b98a5">Session titles that keep up with the work.</text>
+    <text x="542" y="252" font-size="16" fill="#5b6b7c">Claude Code · Codex · OpenCode</text>
+    <rect x="542" y="112" width="10" height="4" rx="2" fill="#3ddc97"/>
+  </g>
+</svg>

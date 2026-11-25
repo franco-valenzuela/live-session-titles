@@ -1,0 +1,10 @@
+{
+  "name": "live-session-titles",
+  "version": "1.0.0",
+  "description": "Keeps session titles current while you work, plus bulk retitle with preview and undo for Claude, Codex and OpenCode.",
+  "author": { "name": "franco-valenzuela" },
+  "homepage": "https://github.com/franco-valenzuela/live-session-titles",
+  "repository": "https://github.com/franco-valenzuela/live-session-titles",
+  "license": "MIT",
+  "keywords": ["session", "title", "rename", "claude-code", "codex", "opencode"]
+}

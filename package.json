@@ -1,0 +1,19 @@
+{
+  "name": "live-session-titles",
+  "version": "1.0.0",
+  "description": "Keeps AI coding session titles current while you work. Bulk retitle with preview and undo for Claude Code, Codex and OpenCode.",
+  "bin": { "live-session-titles": "bin/cli.js" },
+  "files": ["bin", "skills", "commands", "hooks", "rules", ".claude-plugin", "README.md", "LICENSE", "CHANGELOG.md"],
+  "scripts": {
+    "test": "node --check bin/cli.js && node --check hooks/session-start.js && node bin/cli.js help",
+    "publish:both": "node scripts/publish-both.js"
+  },
+  "engines": { "node": ">=18" },
+  "os": ["win32", "darwin", "linux"],
+  "keywords": ["claude-code", "codex", "opencode", "session", "title", "rename", "skill", "agent", "cli"],
+  "author": "franco-valenzuela",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/franco-valenzuela/live-session-titles.git" },
+  "homepage": "https://github.com/franco-valenzuela/live-session-titles#readme",
+  "bugs": "https://github.com/franco-valenzuela/live-session-titles/issues"
+}
