@@ -60,7 +60,7 @@ The package is published under two names with the same content. Use either one:
 
 ```bash
 npx live-session-titles install
-npx @franco-valenzuela/live-session-titles install
+npx @francovalenzuela/live-session-titles install
 ```
 
 Or straight from GitHub, without npm's registry:

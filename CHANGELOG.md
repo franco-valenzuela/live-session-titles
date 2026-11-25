@@ -12,4 +12,4 @@ First release.
 - Installer for Windows, macOS and Linux with an agent checklist, plus `--yes` and `--agents`.
 - Rule-only support for Gemini CLI, Antigravity, Windsurf and Cursor.
 - SessionStart hook for Claude Code with a weekly update check (`LST_NO_UPDATE_CHECK=1` turns it off).
-- Published on npm as `live-session-titles` and `@franco-valenzuela/live-session-titles`.
+- Published on npm as `live-session-titles` and `@francovalenzuela/live-session-titles`.
